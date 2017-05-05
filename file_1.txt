@@ -1,1 +1,2 @@
 original text of file 1
+added additional string
